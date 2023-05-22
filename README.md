@@ -1,15 +1,16 @@
 
 # Modern Flower Html-Css Responsive Project
 
-## What I Practice
-- Design using only html and css
+## Languages and Tools Which I Used
+
+- Made using html and css
 - Responsive
 
 
 ### `Deploy`
 
-https://yesil-zihin-project.netlify.app/
+https://modern-flower-b890f7.netlify.app/
 
 ### `Screen`
 
-![](screen.gif)# Flower
+![](screen.gif)
